@@ -1,0 +1,31 @@
+/* Generated from page: home */
+.themify_builder_content-50 .tb_2e9829a.module_row{padding-bottom:5%;padding-top:5%;background-position:left top;background-attachment:scroll;background-size:cover;background-repeat:no-repeat;background-image:url(http://localhost/wordpress/wp-content/uploads/2024/10/bg-top-1.png)}
+.themify_builder_content-50 .tb_2e9829a.module_row>.row_inner,.themify_builder_content-50 .tb_fd63626.module_row>.row_inner{--align_content:var(--align_center)}
+.themify_builder_content-50 .tb_948c013.module-text,.themify_builder_content-50 .tb_6f0bef8.module-text{margin-bottom:1em}
+.themify_builder_content-50 .tb_2700db8.module_row{padding:5% 3%}
+.themify_builder_content-50 .tb_2700db8.module_row>.row_inner{--align_content:var(--align_center);--colG:var(--narrow)}
+.themify_builder_content-50 .tb_7ffb99d.module_column{padding:10%;background-position:left top;background-attachment:scroll;background-repeat:no-repeat;background-image:url(http://localhost/wordpress/wp-content/uploads/2024/10/number-02.png)}
+.themify_builder_content-50 .tb_4fb784d.module-fancy-heading{margin-top:-7em;padding-bottom:9em;padding-top:6em;background-position:50% 50%;background-repeat:no-repeat;background-image:url(http://localhost/wordpress/wp-content/uploads/2024/10/number-03.png)}
+.themify_builder_content-50 .tb_008381c.module_column{padding:10%;background-position:center top;background-attachment:scroll;background-repeat:no-repeat;background-image:url(http://localhost/wordpress/wp-content/uploads/2024/10/number-04.png)}
+.themify_builder_content-50 .tb_a26e8c5.module-fancy-heading{margin-bottom:1em;margin-top:2em}
+.themify_builder_content-50 .tb_ed701e9.module-testimonial-slider .post,.themify_builder_content-50 .tb_ed701e9.module-testimonial-slider .testimonial-title,.themify_builder_content-50 .tb_ed701e9.module-testimonial-slider .testimonial-entry-content,.themify_builder_content-50 .tb_ed701e9.module-testimonial-slider .testimonial-author .person-name,.themify_builder_content-50 .tb_ed701e9.module-testimonial-slider .testimonial-author .person-position,.themify_builder_content-50 .tb_ed701e9.module-testimonial-slider .testimonial-author .person-company{font-size:1.2em}
+.themify_builder_content-50 .tb_ed701e9.module-testimonial-slider .post{line-height:1.5em}
+.themify_builder_content-50 .tb_a082b49.module_row{padding-bottom:10%;padding-top:10%;background-size:cover;--tbBg:parallax;background-attachment:fixed;background-position:center top;background-repeat:no-repeat;background-image:url(http://localhost/wordpress/wp-content/uploads/2024/10/bg-free-delivery-05-1024x410-1.jpg)}
+.themify_builder_content-50 .tb_a082b49.module_row>.row_inner{--col:var(--c1_2_1)}
+.themify_builder_content-50 .tb_b408da8.module-text .tb_text_wrap,.themify_builder_content-50 .tb_b408da8.module-text .tb_text_wrap p,.themify_builder_content-50 .tb_b408da8.module-text .tb_text_wrap blockquote,.themify_builder_content-50 .tb_b408da8.module-text .tb_text_wrap h1,.themify_builder_content-50 .tb_b408da8.module-text .tb_text_wrap h2,.themify_builder_content-50 .tb_b408da8.module-text .tb_text_wrap h3,.themify_builder_content-50 .tb_b408da8.module-text .tb_text_wrap h4,.themify_builder_content-50 .tb_b408da8.module-text .tb_text_wrap h5,.themify_builder_content-50 .tb_b408da8.module-text .tb_text_wrap h6,.themify_builder_content-50 .tb_b408da8.module-text .tb_text_wrap li,.themify_builder_content-50 .tb_b408da8.module-text .tb_text_wrap span{background-clip:border-box;background-image:none;color:#fff}
+.themify_builder_content-50 .tb_b408da8.module-text{margin-bottom:1em;text-align:center;font-size:1.3em}
+.themify_builder_content-50 .tb_60e5bac.module-buttons{text-align:center}
+.themify_builder_content-50 .tb_e10fa57.module_row{padding-bottom:5%;padding-top:5%;background-position:center top;background-attachment:scroll;background-repeat:no-repeat;background-image:url(http://localhost/wordpress/wp-content/uploads/2024/10/number-06.png)}
+.themify_builder_content-50 .tb_d6feadc.module-fancy-heading{margin-bottom:2em}
+
+@media(max-width:768px){
+.themify_builder_content-50 .tb_2700db8.module_row>.row_inner{--area:var(--areat6_auto)}
+}
+@media(max-width:680px){
+.themify_builder_content-50 .tb_2e9829a.module_row{padding-bottom:8%;padding-top:7%}
+.themify_builder_content-50 .tb_2e9829a.module_row>.row_inner,.themify_builder_content-50 .tb_dd7327a.module_row>.row_inner,.themify_builder_content-50 .tb_fd63626.module_row>.row_inner{--area:var(--aream2_auto)}
+.themify_builder_content-50 .tb_5fd604f.module-image{margin-bottom:30px}
+.themify_builder_content-50 .tb_2700db8.module_row>.row_inner{--area:"col1 col2 col3" "col4 col5 col6"}
+.themify_builder_content-50 .tb_dd7327a.module_row{padding-bottom:5%}
+.themify_builder_content-50 .tb_a082b49.module_row>.row_inner{--col:none;--area:var(--aream3_auto)}
+}
